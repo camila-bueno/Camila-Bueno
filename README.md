@@ -1,6 +1,16 @@
-## Olá, eu sou a Camila.
+## Olá, bem vindo(a) ao meu GitHub 🤩 
 
-. 👩🏻‍💻 Estudante de Frontend
+Meu nome é Camila, sou estudante Front-End. Estou cursando Sistemas para Internet na Universidade Cruzeiro do Sul e também estudo através da platarforma Origamid. 
+
+Estou em busca de uma oportunidade de estágio na área de Desenvolvimento e/ou Desing Web. Gosto de aprender coisas novas, trabalho bem em equipe, sou comprometida e responsável.
+
+## Tenho conhecimentos em:
+  
+#### Linguagens:        
+- HTML, CSS e Javascript.
+
+#### Tecnologias que iniciarei na sequência:
+- React.JS, UX e Ui Design.
 
 ##
 
