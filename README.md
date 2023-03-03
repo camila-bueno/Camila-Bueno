@@ -1,6 +1,6 @@
 ## Olá, bem vindo(a) ao meu GitHub 🤩 
 
-Meu nome é Camila, sou estudante Front-End. Estou cursando Sistemas para Internet na Universidade Cruzeiro do Sul e também estudo através da platarforma Origamid. 
+Meu nome é Camila, sou estudante Front-End. Estou cursando Sistemas para Internet na Universidade Cruzeiro do Sul e também estudo através da plataforma Origamid. 
 
 Estou em busca de uma oportunidade de estágio na área de Desenvolvimento e/ou Desing Web. Gosto de aprender coisas novas, trabalho bem em equipe, sou comprometida e responsável.
 
